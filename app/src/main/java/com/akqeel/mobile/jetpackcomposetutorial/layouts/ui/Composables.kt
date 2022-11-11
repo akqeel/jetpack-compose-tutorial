@@ -1,4 +1,4 @@
-package com.akqeel.mobile.jetpackcomposetutorial.mysoothe.ui
+package com.akqeel.mobile.jetpackcomposetutorial.layouts.ui
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
@@ -21,8 +21,8 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
-import com.akqeel.mobile.jetpackcomposetutorial.mysoothe.model.AlignYourBodyData
-import com.akqeel.mobile.jetpackcomposetutorial.mysoothe.model.FavouritesCollectionData
+import com.akqeel.mobile.jetpackcomposetutorial.layouts.model.AlignYourBodyData
+import com.akqeel.mobile.jetpackcomposetutorial.layouts.model.FavouritesCollectionData
 import java.util.Locale
 
 @OptIn(ExperimentalMaterial3Api::class)
