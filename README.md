@@ -5,5 +5,3 @@ https://m3.material.io
 
 ### Branches:
 - feat/basics: https://developer.android.com/codelabs/jetpack-compose-basics
-- feat/mysoothe: https://developer.android.com/codelabs/jetpack-compose-layouts#0
-- 
