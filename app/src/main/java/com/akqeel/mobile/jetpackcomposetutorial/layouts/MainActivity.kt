@@ -1,13 +1,13 @@
-package com.akqeel.mobile.jetpackcomposetutorial.mysoothe
+package com.akqeel.mobile.jetpackcomposetutorial.layouts
 
 import androidx.activity.ComponentActivity
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.akqeel.mobile.jetpackcomposetutorial.basics.ui.theme.JetpackComposeTutorialTheme
-import com.akqeel.mobile.jetpackcomposetutorial.mysoothe.model.AlignYourBodyData
-import com.akqeel.mobile.jetpackcomposetutorial.mysoothe.model.FavouritesCollectionData
-import com.akqeel.mobile.jetpackcomposetutorial.mysoothe.ui.*
+import com.akqeel.mobile.jetpackcomposetutorial.layouts.model.AlignYourBodyData
+import com.akqeel.mobile.jetpackcomposetutorial.layouts.model.FavouritesCollectionData
+import com.akqeel.mobile.jetpackcomposetutorial.layouts.ui.*
 
 class MainActivity : ComponentActivity() {
 

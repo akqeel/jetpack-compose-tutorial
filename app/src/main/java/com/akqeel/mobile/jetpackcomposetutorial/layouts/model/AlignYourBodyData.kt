@@ -1,4 +1,4 @@
-package com.akqeel.mobile.jetpackcomposetutorial.mysoothe.model
+package com.akqeel.mobile.jetpackcomposetutorial.layouts.model
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
