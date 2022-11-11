@@ -1,4 +1,4 @@
-package com.akqeel.mobile.jetpackcomposetutorial.ui.theme
+package com.akqeel.mobile.jetpackcomposetutorial.basics.ui.theme
 
 import android.app.Activity
 import android.os.Build

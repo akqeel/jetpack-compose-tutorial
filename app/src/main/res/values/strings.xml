@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JetpackComposeTutorial</string>
+    <string name="align_your_body">Align your body</string>
+    <string name="favourite_collections">Favourites Collection</string>
 </resources>

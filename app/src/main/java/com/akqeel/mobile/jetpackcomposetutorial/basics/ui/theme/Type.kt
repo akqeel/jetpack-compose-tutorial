@@ -1,4 +1,4 @@
-package com.akqeel.mobile.jetpackcomposetutorial.ui.theme
+package com.akqeel.mobile.jetpackcomposetutorial.basics.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
